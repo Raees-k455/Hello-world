@@ -1,2 +1,2 @@
-# WEB
-WEB 2020
+# hello world
+My first GitHub pages repository
